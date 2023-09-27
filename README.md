@@ -52,7 +52,7 @@ Let's kickstart your shopping journey with Shop App:
 ## 5. Screenshots 📸 <a name="screenshots"></a>
 Take a sneak peek at Shop App with these screenshots:
 
-![Screenshot 1]('res/Screenshots/homeSS.jpg')
+![Screenshot 1](res/Screenshots/homeSS.jpg)
 *Product Catalog*
 
 ![Screenshot 2](res/Screenshots/product.jpg)
