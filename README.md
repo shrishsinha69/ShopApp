@@ -52,13 +52,13 @@ Let's kickstart your shopping journey with Shop App:
 ## 5. Screenshots 📸 <a name="screenshots"></a>
 Take a sneak peek at Shop App with these screenshots:
 
-![Screenshot 1](res/Screenshots/homeSS.jpg)
+![Screenshot 1](https://github.com/shrishsinha69/ShopApp/blob/32b70e131889337161a5e4f59f2539dc4909c55b/app/src/main/res/Screenshots/cart.jpg)
 *Product Catalog*
 
-![Screenshot 2](res/Screenshots/product.jpg)
+![Screenshot 2](https://github.com/shrishsinha69/ShopApp/blob/32b70e131889337161a5e4f59f2539dc4909c55b/app/src/main/res/Screenshots/cart.jpg)
 *Shopping Cart*
 
-![Screenshot 3](res/Screenshots/cart.jpg)
+![Screenshot 3](https://github.com/shrishsinha69/ShopApp/blob/32b70e131889337161a5e4f59f2539dc4909c55b/app/src/main/res/Screenshots/cart.jpg)
 *User Profile*
 
 ## 6. Usage 🛒 <a name="usage"></a>
