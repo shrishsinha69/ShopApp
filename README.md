@@ -50,16 +50,15 @@ Let's kickstart your shopping journey with Shop App:
    If your app relies on a backend service for user authentication and data storage, set up the backend according to the provided documentation.
 
 ## 5. Screenshots 📸 <a name="screenshots"></a>
-Take a sneak peek at Shop App with these screenshots:
-
-![Screenshot 1](https://github.com/shrishsinha69/ShopApp/blob/b51f2fb85bfad142243dde81f39f91db80f51ad4/Screenshots/homeSS.jpg)
+<p>"Take a sneak peek at Shop App with these screenshots:"</p>
+<img src="https://github.com/shrishsinha69/ShopApp/blob/b51f2fb85bfad142243dde81f39f91db80f51ad4/Screenshots/homeSS.jpg" alt="Product Catalog" width="300">
 *Product Catalog*
 
-![Screenshot 2](https://github.com/shrishsinha69/ShopApp/blob/b51f2fb85bfad142243dde81f39f91db80f51ad4/Screenshots/product.jpg)
-*Shopping Cart*
+<img src="https://github.com/shrishsinha69/ShopApp/blob/b51f2fb85bfad142243dde81f39f91db80f51ad4/Screenshots/product.jpg" alt="Shopping Cart" width="300">
+*Product Details*
 
-![Screenshot 3](https://github.com/shrishsinha69/ShopApp/blob/b51f2fb85bfad142243dde81f39f91db80f51ad4/Screenshots/cart.jpg)
-*User Profile*
+<img src="https://github.com/shrishsinha69/ShopApp/blob/b51f2fb85bfad142243dde81f39f91db80f51ad4/Screenshots/cart.jpg" alt="User Profile" width="300">
+*Shopping Card*
 
 ## 6. Usage 🛒 <a name="usage"></a>
 To explore and use Shop App, follow these simple steps:
